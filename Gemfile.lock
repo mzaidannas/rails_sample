@@ -361,6 +361,7 @@ DEPENDENCIES
   devise
   dotenv-rails
   friendly_id
+  httparty
   image_processing
   jsbundling-rails
   letter_opener
